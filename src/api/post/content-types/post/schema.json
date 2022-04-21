@@ -19,7 +19,7 @@
       "type": "richtext",
       "required": true
     },
-    "thumbnail": {
+    "image": {
       "allowedTypes": [
         "images"
       ],
